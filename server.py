@@ -39,7 +39,7 @@ except:
     print("Список модов не найден, завершение..")
     stop()
 print("\n")
-mlistp=os.getcwd()+"\\tmp\\mods.yml"
+mlistp=os.getcwd()+"/tmp/mods.yml"
 with open(mlistp) as file:
     modlist = yaml.load(file,Loader=yaml.FullLoader)
     modlist=modlist["download"]
