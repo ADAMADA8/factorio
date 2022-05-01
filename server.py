@@ -20,7 +20,7 @@ elif sname == "LinuxDisabled":
 moddir="/home/ubuntu/factorio/mods"
 
 if os.path.exists("tmp") == False:
-    os.mkdir(os.getcwd()+"\\tmp")
+    os.mkdir(os.getcwd()+"/tmp")
 tmpfout=os.getcwd()
 tmpfout=tmpfout+"\\tmp\\"
 
