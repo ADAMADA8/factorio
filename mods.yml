@@ -45,4 +45,5 @@ download:
   - "beacon-interference_1.1.0.zip"
 needunzip:
   - "requirements.zip"
-sha1: []
+sha1:
+ - "exp-no-use"
