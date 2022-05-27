@@ -1,5 +1,5 @@
 download:
-  - "SimpleSaplings_2.0.5 (2).zip"
+  - "SimpleSaplings_2.0.5.zip"
   - "RitnLib_0.6.0.zip"
   - "RitnWaterfill_1.2.3.zip"
   - "ElectricTrainPatched_1.1.3.zip"
@@ -45,3 +45,4 @@ download:
   - "beacon-interference_1.1.0.zip"
 needunzip:
   - "requirements.zip"
+sha1: []
